@@ -1,0 +1,21 @@
+
+        h1{
+            color: purple;
+        }
+        .my-para{
+            font-size: 30px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            color: brown;
+        }
+        #sub-heading{
+            font-size: 45px;
+            font-weight: bold;
+            color: red;
+        }
+        .second-heading{
+            color: black;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        button.red{
+            background-color: red;
+        }
