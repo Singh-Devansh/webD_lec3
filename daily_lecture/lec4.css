@@ -1,0 +1,8 @@
+body{
+    font-family:'poppins' ;
+}
+header{
+    height: 50vh;
+    background-color: black;
+    color: white;
+}
